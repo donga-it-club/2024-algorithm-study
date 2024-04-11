@@ -9,3 +9,10 @@
 - 유윤지
 - 배금빈
 - 하은지
+
+
+# 스터디 진행 상황
+
+1주차 (24.04.11)
+- OT
+- 발표 자료: [PPT](https://docs.google.com/presentation/d/17yL7FTwZjjbk3ue7Topx5HOJeMB0qJd3_p2BgtbkbL8/edit?usp=sharing)
