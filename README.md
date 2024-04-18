@@ -27,4 +27,22 @@
 
 1주차 (24.04.11)
 - OT
+- 발표자: 정민석
 - 발표 자료: [PPT](https://docs.google.com/presentation/d/17yL7FTwZjjbk3ue7Topx5HOJeMB0qJd3_p2BgtbkbL8/edit?usp=sharing)
+
+2주차 (24.04.18)
+- Hash
+- 발표자: 정민석
+- 발표 자료: [Blog](https://minseok-study.tistory.com/entry/Hash-1)
+
+3주차 
+- 스택/큐
+- 발표자: 유윤지
+
+4주차
+- 정렬
+- 발표자: 배금빈
+
+5주차
+- 완전탐색
+- 발표자: 공정
