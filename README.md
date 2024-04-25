@@ -38,6 +38,7 @@
 3주차 
 - 스택/큐
 - 발표자: 유윤지
+- 발표 자료: [Blog](https://ll-llwhkr.tistory.com/32)
 
 4주차
 - 정렬
