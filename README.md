@@ -45,5 +45,11 @@
 - 발표 자료 : [Blog](https://blog.naver.com/binny1204/223433995305)
 
 5주차
-- 완전탐색
+- 그리디, 구현 알고리즘
 - 발표자: 정민석
+- 발표 자료: [그리디](https://minseok-study.tistory.com/entry/%EA%B7%B8%EB%A6%AC%EB%94%94-%EA%B5%AC%ED%98%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) [구현](https://minseok-study.tistory.com/entry/%EA%B5%AC%ED%98%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+6주차
+- DFS/BFS
+- 발표자: 유윤지
+- 발표 자료: [노션](https://seed-spike-d61.notion.site/DFS-BFS-ed468c027e514e4d9d6dcd03272d1037?pvs=4)
