@@ -53,3 +53,11 @@
 - DFS/BFS
 - 발표자: 유윤지
 - 발표 자료: [노션](https://seed-spike-d61.notion.site/DFS-BFS-ed468c027e514e4d9d6dcd03272d1037?pvs=4)
+
+7주차
+- 이진 탐색
+- 발표자: 배금
+- 발표 자료: [노션](https://geumbin1204.notion.site/5-d53abebac50c4be2824149d7896cdc8d)
+
+
+
