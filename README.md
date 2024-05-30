@@ -56,8 +56,12 @@
 
 7주차
 - 이진 탐색
-- 발표자: 배금
+- 발표자: 배금빈
 - 발표 자료: [노션](https://geumbin1204.notion.site/5-d53abebac50c4be2824149d7896cdc8d)
 
+8주차
+- DP
+- 발표자: 정민석
+- 발표 자료: [블로그](https://minseok-study.tistory.com/entry/DP-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98#%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20(Memoization)-1)
 
 
