@@ -68,3 +68,8 @@
 - 최단 경로
 - 발표자: 유윤지
 - 발표 자료: [노션](https://www.notion.so/3a9a4403abb342c39598ed673c13cf8d?pvs=4)
+
+  10주차
+- 기타 그래프 이론
+- 발표자: 배금
+- 발표 자료: [노션](https://geumbin1204.notion.site/8-ed5dc756c56742b7949f249ab3358c30)
